@@ -18,9 +18,9 @@
 - 👨‍💻 I’m currently learning Java, Spring, Hibernate, SQL, AWS at Masai School.
 - 💬 Ask me about Java, Spring, Hibernate, SQL, AWS
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- 👨‍💻 This is [My Portfolio]()
+- 👨‍💻 This is [My Portfolio](https://rohit1469.github.io/)
 
--  📄 This is [My Resume](https://drive.google.com/file/d/1AQuDjqK5O0mhJauKVGziQUxPInnq9uU-/view?usp=sharing)
+-  📄 This is [My Resume](https://drive.google.com/file/d/1YwiXqMKKolodGZLbCssAXqGKg4jdUOIQ/view?usp=sharing)
 - 📫 How to reach me: ...rohitkinra8@gmail.com
 
 
@@ -37,12 +37,12 @@
 
 <!--   <summary><b style ="text-align :center">⚡ Recent GitHub Activity</b></summary> -->
 <!--   <br/> -->
-   <a href="https://github.com/hustler-abhi"><img alt="Abhishek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hustler-abhi&custom_title=Abhishek's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/rohit1469"><img alt="Rohit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hustler-abhi&custom_title=Rohit's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hustler-abhi" alt="Abhishek" /></a></p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit1469" alt="Rohit" /></a></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -57,11 +57,11 @@
 
  <h2> 📊 Github Stats ....</h2>
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hustler-abhi&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hustler-abhi&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hustler-abhi&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hustler-abhi&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hustler-abhi&theme=solarized_dark&utcOffset=8">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohit1469&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohit1469&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohit1469&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohit1469&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohit1469&theme=solarized_dark&utcOffset=8">
 	
 </p>
 
@@ -157,8 +157,8 @@
 ## 📊 My Github Stats
 
 <p align="left" style="margin-right:0px;padding-right:0px">
-<img src="https://github-readme-stats.vercel.app/api?username=hustler-abhi&theme=algolia">
-<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=hustler-abhi&theme=algolia" />
+<img src="https://github-readme-stats.vercel.app/api?username=rohit1469&theme=algolia">
+<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit1469&theme=algolia" />
 </p>
 
 
@@ -167,13 +167,13 @@
 ## Connect with me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhishek-kumar-001846246/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
+  <a href="https://www.linkedin.com/in/rohit-kumar-873825150/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
 
 </p>
 
 ## ❤ Views and Followers
 
-<p align='center'> <img src="https://komarev.com/ghpvc/?username=hustler-abhi&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
+<p align='center'> <img src="https://komarev.com/ghpvc/?username=rohit1469&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
 
 
 <h2 align='left'>Thank You ❤</h2>
