@@ -37,7 +37,7 @@
 
 <!--   <summary><b style ="text-align :center">⚡ Recent GitHub Activity</b></summary> -->
 <!--   <br/> -->
-   <a href="https://github.com/rohit1469"><img alt="Rohit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hustler-abhi&custom_title=Rohit's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/rohit1469"><img alt="Rohit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rohit1469&custom_title=Rohit's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
