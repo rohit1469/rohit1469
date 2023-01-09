@@ -20,7 +20,7 @@
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 👨‍💻 This is [My Portfolio](https://rohit1469.github.io/)
 
--  📄 This is [My Resume](https://drive.google.com/file/d/1YwiXqMKKolodGZLbCssAXqGKg4jdUOIQ/view?usp=sharing)
+-  📄 This is [My Resume](https://drive.google.com/file/d/1R2_N8Gnc5Wl97bXpckrRkkJU36j50Qvd/view?usp=sharing)
 - 📫 How to reach me: ...rohitkinra8@gmail.com
 
 
